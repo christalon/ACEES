@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\5f45f1424256b6aa8c12a36826c40426ea5238b2\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\5f45f1424256b6aa8c12a36826c40426ea5238b2\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\5f45f1424256b6aa8c12a36826c40426ea5238b2\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\81307236a606a726a82673c8b49dc7a588aa384c\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\5f45f1424256b6aa8c12a36826c40426ea5238b2\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

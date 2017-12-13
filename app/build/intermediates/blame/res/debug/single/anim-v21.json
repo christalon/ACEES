@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\81307236a606a726a82673c8b49dc7a588aa384c\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\81307236a606a726a82673c8b49dc7a588aa384c\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\crisc\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\crisc\\.android\\build-cache\\81307236a606a726a82673c8b49dc7a588aa384c\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]

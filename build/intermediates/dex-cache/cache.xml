@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_871e2d950b0813e37e1919744f42e3a18a65af95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\9f05acef6d29437eeae3b8096047f142d1b7d1ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_915cc5b44a605e7f987e7e1f98f0aac09531a1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\55a7097163e445c25bfe13ab0d9d4acd2f070c48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_395584f9decadf6b67ae40ef0efb69addc9f8db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\ac07dad48b09fe9704a4517231b745582bb8519d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_3529e551efc163c2a318a2e3e3958a1933284109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\79a4b4f70be295dc6a55b1df20412a22f6dae9aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_c886b595d705d66686b512cc5182340ea63dba2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\d2fef548b7dbffd4419413b6ab8193d419aa8361\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\classes_6a6364ae7d5ba71dda65f04a508d2ccf154be28d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\crisc\.android\build-cache\d2fef548b7dbffd4419413b6ab8193d419aa8361\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\crisc\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_373ef297e6670e1187f645769f07315c96c32854.jar" />
+    </item>
+
+</items>
