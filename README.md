@@ -5,3 +5,5 @@ This app was made to make enrollment more accessible and more user-friendly.
 
 Developed with Android Studio and PHP for backend methods. PHP methods can be modified realtime on a different machine as long as it has 
 connection to the database.
+
+(Github only contains files for the app itself)
